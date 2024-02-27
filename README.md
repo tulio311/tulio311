@@ -1,7 +1,10 @@
 ### Hello!
 
-Nice to have you here, my name is Tulio. I am a problem solver with a Mathematics degree. Here you have my projects, hope you like them and maybe 
-you'll see something that interest you.
+Nice to meet you, my name is Tulio. I am a problem solver (not all problems, but I try my best!) with a mathematics degree. Here are my projects, I hope you like them and maybe you'll see something that interests you.
+
+### Algorithmic trading system
+
+I made an algorithmic trading pipeline por cryptocurrency. The system is capable of training itself with new information and choose the best model for that purpose (between models XGBoost, Gaussian Naive Bayes, Random Forest and SVC with different parametrizations). Storage of training dataset and ongoing model execution information (open and closed orders and current prices) can be done both in an SQL database or csv files. The project's repository where you can find all the details is this --> github.com/tulio311/AlgoTrading
 
 <!--
 **tulio311/tulio311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
