@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+
+Nice to have you here, my name is Tulio. I am a problem solver with a Mathematics degree. Here you have my projects, hope you like them and maybe 
+you'll see something that interest you.
 
 <!--
 **tulio311/tulio311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
