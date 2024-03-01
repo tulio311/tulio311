@@ -1,6 +1,6 @@
 ### Hello!
 
-Nice to meet you, my name is Tulio. I am a problem solver (not all problems, but I try my best!) with a Mathematics degree. Here are my projects, I hope you like them and maybe you'll see something that interests you.
+Nice to meet you, my name is Tulio. I really enjoy solving problems or trying to, that's why I have a Mathematics degree. Here are my projects, I hope you like them and maybe you'll see something that interests you.
 
 ### Algorithmic trading system
 
