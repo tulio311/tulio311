@@ -4,7 +4,7 @@ Nice to meet you, my name is Tulio. I really enjoy solving problems or trying to
 
 ### Algorithmic trading system
 
-I made an algorithmic trading pipeline por cryptocurrency. The system is capable of training itself with new information and choose the best model for that purpose (between models XGBoost, Gaussian Naive Bayes, Random Forest and SVC with different parametrizations). Storage of training dataset and ongoing model execution information (open and closed orders and current prices) can be done both in an SQL database or csv files. The project's repository where you can find all the details is this one --> https://github.com/tulio311/AlgoTrading
+I made an algorithmic trading pipeline for cryptocurrency. The system is capable of training itself with new information and choose the best model for that purpose (between models XGBoost, Gaussian Naive Bayes, Random Forest and SVC with different parametrizations). Storage of training dataset and ongoing model execution information (open and closed orders and current prices) can be done both in an SQL database or csv files. The project's repository where you can find all the details is this one --> https://github.com/tulio311/AlgoTrading
 
 ### Data-ish
 
