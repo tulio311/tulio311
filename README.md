@@ -14,6 +14,8 @@ This is a web page built in Flask that has 4 color boxes in the main page, each 
 
 Technologies used: Python (Flask), SQL, HTML, CSS, Javascript (JQuery)
 
+If you want to see more on Web Development go [here](https://github.com/tulio311/WebDevelopment).
+
 ### Data-ish
 
 In this repository you'll find some other projects related to data (Data analysis, Data science, Natural Language Processing and Statistics). The project's repository is this one --> https://github.com/tulio311/Data-ish
