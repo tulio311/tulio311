@@ -1,6 +1,6 @@
 ### Hello!
 
-Nice to meet you, my name is Tulio. I really enjoy solving problems or trying to, that's why I have a Mathematics degree. Here are my projects, I hope you like them and maybe you'll see something that interests you.
+Nice to meet you, my name is Tulio. I really enjoy solving problems or at least giving the best I have to solve them, that's the reason I studied a Mathematics degree. Here are my projects, I hope you like them and maybe you'll see something that is interesting for you. Hope you enjoy your time here!
 
 ### Algorithmic trading system
 
@@ -24,9 +24,8 @@ John Conway created the rules for a now very famous automatic game related to ce
 
 Technologies used: C
 
-You can review some other projects I've done in the pinned tags down here or in the repositories tab. This projects include Web Development, Data Structures, chatting with an LLM through an API, Graph algorithms, an encryption algorithm (RSA) and Web Scraping. 
+You can review the rest of my projects in the pinned tags down here or in the repositories tab. This projects include Web Development, Data Structures, chatting with an LLM through an API for getting help with my projects, Graph algorithms, an encryption algorithm (RSA) and Web Scraping. 
 
-Hope you enjoy your time here!
 
  
 
